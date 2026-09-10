@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: DISASTERX AI
+    runtime: node
+    buildCommand: npm install
+    startCommand: npm start

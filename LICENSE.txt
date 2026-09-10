@@ -1,0 +1,3 @@
+DISASTERX AI project scaffold.
+
+Third-party data, map tiles and APIs remain subject to their respective providers' terms, attribution requirements and rate limits.

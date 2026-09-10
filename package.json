@@ -1,0 +1,18 @@
+{
+  "name": "DISASTERX AI-real-world",
+  "version": "3.0.0",
+  "private": true,
+  "description": "DISASTERX AI - real-world natural disaster intelligence dashboard using live public disaster sources.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "serialport": "^13.0.0"
+  }
+}
