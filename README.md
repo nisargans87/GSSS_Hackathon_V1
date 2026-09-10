@@ -65,3 +65,15 @@ Water Level
 Environmental Conditions
    ↓
 Risk Assessment
+
+Data Sources
+
+🌐 USGS Earthquake Catalog & Feed
+🌐 GDACS Global Disaster Alert System
+🛰️ NASA EONET
+🔥 NASA FIRMS
+🌦️ India Meteorological Department (IMD)
+🗺️ geoBoundaries
+🛰️ Esri World Imagery
+🗺️ OpenStreetMap
+
